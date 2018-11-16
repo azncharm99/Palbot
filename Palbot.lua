@@ -927,7 +927,7 @@ function setDialogOptions()
   end
   if sellAllRune == false and keepAll == false then
     if runeRaritySelect6 == spinnerRuneRarity6[1] then
-      runeRarity6 = 0
+      runeRarity6 = 6
     elseif runeRaritySelect6 == spinnerRuneRarity6[2] then
       runeRarity6 = 1
     elseif runeRaritySelect6 == spinnerRuneRarity6[3] then
@@ -940,7 +940,7 @@ function setDialogOptions()
       runeRarity6 = 5
     end
     if runeRaritySelect5 == spinnerRuneRarity5[1] then
-      runeRarity5 = 0
+      runeRarity5 = 6
     elseif runeRaritySelect5 == spinnerRuneRarity5[2] then
       runeRarity5 = 1
     elseif runeRaritySelect5 == spinnerRuneRarity5[3] then
@@ -953,7 +953,7 @@ function setDialogOptions()
       runeRarity5 = 5
     end
     if runeRaritySelect4 == spinnerRuneRarity4[1] then
-      runeRarity4 = 0
+      runeRarity4 = 6
     elseif runeRaritySelect4 == spinnerRuneRarity4[2] then
       runeRarity4 = 1
     elseif runeRaritySelect4 == spinnerRuneRarity4[3] then
@@ -966,7 +966,7 @@ function setDialogOptions()
       runeRarity4 = 5
     end
     if runeRaritySelect3 == spinnerRuneRarity3[1] then
-      runeRarity3 = 0
+      runeRarity3 = 6
     elseif runeRaritySelect3 == spinnerRuneRarity3[2] then
       runeRarity3 = 1
     elseif runeRaritySelect3 == spinnerRuneRarity3[3] then
@@ -979,7 +979,7 @@ function setDialogOptions()
       runeRarity3 = 5
     end
     if runeRaritySelect2 == spinnerRuneRarity2[1] then
-      runeRarity2 = 0
+      runeRarity2 = 6
     elseif runeRaritySelect2 == spinnerRuneRarity2[2] then
       runeRarity2 = 1
     elseif runeRaritySelect2 == spinnerRuneRarity2[3] then
@@ -992,7 +992,7 @@ function setDialogOptions()
       runeRarity2 = 5
     end
     if runeRaritySelect1 == spinnerRuneRarity1[1] then
-      runeRarity1 = 0
+      runeRarity1 = 6
     elseif runeRaritySelect1 == spinnerRuneRarity1[2] then
       runeRarity1 = 1
     elseif runeRaritySelect1 == spinnerRuneRarity1[3] then
